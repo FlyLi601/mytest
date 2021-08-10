@@ -1,0 +1,11 @@
+"#!/usr/bin/env python",
+"# -*- encoding: utf-8 -*-",
+"'''",
+"@file : ",
+"@comment:",
+"@date : // ::",
+"@author : xiu.jiang",
+"@version : 1.0",
+"'''",
+"",
+"$0"
