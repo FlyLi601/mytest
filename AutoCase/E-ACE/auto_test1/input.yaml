@@ -1,0 +1,6 @@
+FolderList:
+- Name: Hub (Hub fixed axes) Fx _LDD_1D_Rev.xlsx
+  Path: D:\Users\test_data\output
+ReferenceFolder:
+  Name: Hub (Hub fixed axes) Fx _LDD_1D_Rev.xlsx
+  Path: D:\Users\test_data\ref
